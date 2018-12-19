@@ -7,7 +7,7 @@ order: 990
 
 欢迎使用 Dahlia，在本指南，你将花 1 分钟左右，学会使用 Dahlia CLI 构建并运行一个简单的 Dahlia 应用。
 
-##  第一步: 安装 Dahlia CLI
+## 第一步: 安装 Dahlia CLI
 
 推荐使用 yarn 安装
 
@@ -22,7 +22,7 @@ alias tyarn="yarn --registry https://registry.npm.taobao.org"
 yarn global add dahlia-cli
 ```
 
-##  第二步: 初始化应用
+## 第二步: 初始化应用
 
 ```bash
 dh new my-app
@@ -44,7 +44,7 @@ dh new my-app
 └── tsconfig.json
 ```
 
-##  第三步: 启动开发服务器
+## 第三步: 启动开发服务器
 
 ```bash
 cd my-app

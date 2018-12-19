@@ -47,11 +47,11 @@ dh dev
 
 # 快速开始
 
-在本指南中，我们将简要介绍 Dahlia 如何通过 GraphQL 来快速请求数据，Dahlia 是对 GraphQL 深度支持的，所以本  示例选择使用 GraphQL 不是 Restful 来演示。如果你想找到使用 Restful 的方式来获取数据，请看  Dahlia 的进阶使用。
+在本指南中，我们将简要介绍 Dahlia 如何通过 GraphQL 来快速请求数据，Dahlia 是对 GraphQL 深度支持的，所以本示例选择使用 GraphQL 不是 Restful 来演示。如果你想找到使用 Restful 的方式来获取数据，请看  Dahlia 的进阶使用。
 
 ## 初始化
 
-初始化 GraphQL 的 endpoint，推荐在入口文件初始化，这里为什么不使用 Provider 的方式来初始化，因为 endpoint 这些配置  跟子组件并没有关系，所以没必要，使用 **"Programmatically"** 的方式初始化会更清晰。
+初始化 GraphQL 的 endpoint，推荐在入口文件初始化，这里为什么不使用 Provider 的方式来初始化，因为 endpoint 这些配置跟子组件并没有关系，所以没必要，使用 **"Programmatically"** 的方式初始化会更清晰。
 
 ```js
 import dahlia from 'dahlia'

@@ -5,9 +5,9 @@ order: 960
 
 # 进阶
 
-## 获取数据(Graphql)
+## 获取数据(raphql)
 
-## 获取数据(Rest)
+## 获取数据(Rest)
 
 ## 状态管理
 
@@ -67,15 +67,15 @@ const App = () => {
 ReactDOM.render(<App />, document.getElementById('root'))
 ```
 
-## query 和  状态管理
+## query 和状态管理
 
-## fetch 和  状态管理
+## fetch 和状态管理
 
-## dispatch
+## dispatch
 
-##  副作用(Effects)
+## 副作用(Effects)
 
-##  选择器
+## 选择器
 
 ## Mock 数据
 
