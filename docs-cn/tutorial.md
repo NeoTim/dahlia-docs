@@ -47,7 +47,7 @@ dh dev
 
 # 快速开始
 
-在本指南中，我们将简要介绍 Dahlia 如何通过 GraphQL 来快速请求数据，Dahlia 是对 GraphQL 深度支持的，所以本示例选择使用 GraphQL 不是 Restful 来演示。如果你想找到使用 Restful 的方式来获取数据，请看  Dahlia 的进阶使用。
+在本指南中，我们将简要介绍 Dahlia 如何通过 GraphQL 来快速请求数据，Dahlia 是对 GraphQL 深度支持的，所以本示例选择使用 GraphQL 不是 Restful 来演示。如果你想找到使用 Restful 的方式来获取数据，请看 Dahlia 的进阶使用。
 
 ## 初始化
 
